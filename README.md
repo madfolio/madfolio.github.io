@@ -14,8 +14,14 @@ You can help support me by buying sub-handles at the following locations:
 [Handle Denmark](https://handle.me/denmark)
 
 # votes
+| Vote Cast | Issue | Proposal Link |
+|-----------|-------|--------------|
+|           |       |              |
+|           |       |              |
+|           |       |              |
 
-## Vote 1
+
+## vote 1
 The first vote is about accepting the [Constitution](https://ipfs.io/ipfs/bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy) for Cardano. 
-How I voted can be seen here: 
+Yes - Confirmation can be seen in [governance].
 
