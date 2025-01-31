@@ -1,3 +1,3 @@
 # mad-folio.github.io
 
-A simple website promoting the minecraft server.
+A simple site for DRep
