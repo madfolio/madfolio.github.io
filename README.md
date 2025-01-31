@@ -23,5 +23,5 @@ You can help support me by buying sub-handles at the following locations:
 
 ## vote 1
 The first vote is about accepting the [Constitution](https://ipfs.io/ipfs/bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy) for Cardano. 
-Yes - Confirmation can be seen in [governance].
+Yes - Confirmation can be seen in [governance](https://cexplorer.io/tx/1c95f979533358632c58fbde4208afecbbf42ce7207fc944dae1527d9d3aa279/governance#data).
 
